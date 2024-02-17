@@ -71,8 +71,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![image](https://github.com/stefano-lacorazza/Taller-Tausand/blob/main/images/Screenshot1.png)
 
-[!https://github.com/stefano-lacorazza/Taller-Tausand/blob/main/images/Screenshot1.png]
 
 I developed a program in Python that plots live the cumulative sum of values provided by the user, keeping track of the sum history.
 
