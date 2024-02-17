@@ -18,7 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -27,12 +27,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/stefano-lacorazza/Taller-Tausand">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Taller para vacante desarrollador(a) Python</h3>
 
@@ -42,11 +36,6 @@
     <a href="https://github.com/stefano-lacorazza/Taller-Tausand"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/stefano-lacorazza/Taller-Tausand">View Demo</a>
-    ·
-    <a href="https://github.com/stefano-lacorazza/Taller-Tausand/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/stefano-lacorazza/Taller-Tausand/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,7 +74,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `stefano-lacorazza`, `Taller-Tausand`, `twitter_handle`, `stefano-lacorazza-developer`, `dguzman@tausand.com`, `stefano.lacorazza@gmail.com`, `Taller para vacante desarrollador(a) Python`, `This repository serves as the central location for storing the code solution to the technical test for the Python Developer position at Tausand`
+I developed a program in Python that plots live the cumulative sum of values provided by the user, keeping track of the sum history.
+
+Requirements
+
+- Record the moment when the user presses the numeric keys from '1' to '5'.
+- Display the cumulative sum of the keys pressed.
+- Have a reset button for the counter.
+- Plot the value of the cumulative sum of the last 30 seconds of execution vs. time. It should update the graph live.
+- Have a program end button.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
