@@ -133,7 +133,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Presses the numeric keys from '1' to '5' to display the cumulative sum of the keys pressed.
+Press the reset button to restart the time and counters
+Press the "Stop the program" button to stop the program and close the window
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
