@@ -121,9 +121,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    pip install -r requirements.txt
    ```
-2. Run Counter.py
+2. Run main.py
     ```sh
-   py Counter.py
+   py main.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
