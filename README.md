@@ -137,7 +137,6 @@ This is an example of how to list things you need to use the software and how to
 - Press the reset button to restart the time and counters
 - Press the "Stop the program" button to stop the program and close the window
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
