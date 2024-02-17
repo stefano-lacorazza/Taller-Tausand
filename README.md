@@ -119,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Install packages
    ```sh
-python -m pip install -r requirements.txt
+    python -m pip install -r requirements.txt
    ```
 2. Run main.py
     ```sh
