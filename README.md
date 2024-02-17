@@ -141,18 +141,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/stefano-lacorazza/Taller-Tausand/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -176,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Freely distributed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - stefano.lacorazza@gmail.com@dguzman@tausand.com.com
+Stefano Lacorazza - stefano.lacorazza@gmail.com
 
 Project Link: [https://github.com/stefano-lacorazza/Taller-Tausand](https://github.com/stefano-lacorazza/Taller-Tausand)
 
