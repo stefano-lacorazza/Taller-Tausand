@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](images/screenshot%20(1).png)](https://example.com)
+[!(images/screenshot1.png)]
 
 I developed a program in Python that plots live the cumulative sum of values provided by the user, keeping track of the sum history.
 
